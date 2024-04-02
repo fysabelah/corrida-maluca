@@ -13,3 +13,7 @@ Como primeiro jogo, o sentimento foi de empolgação e, por isto, este foi adici
 ## Como rodar
 
 Este foi desenvolvido no [p5.js Web Editor](https://editor.p5js.org/). Caso queira alterar, basta criar um projeto no mesmo, importando os arquivos.
+
+## Direitos
+
+O responsável pela biblioteca que verifica se houve colisão pode ser encontrado [aqui](https://github.com/bmoren/p5.collide2D).
